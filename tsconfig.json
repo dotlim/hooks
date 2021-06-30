@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "lib": [
+      "DOM",
+      "ESNext"
+    ],
+    "allowJs": true,
+    "module": "commonjs",
+    /* Enable all strict type-checking options. */
+    "strict": true,
+    /* Enables emit interoperability between CommonJS and ES Modules via creation of namespace objects for all imports. Implies 'allowSyntheticDefaultImports'. */
+    "esModuleInterop": true,
+    "declaration": false,
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    /* Enables experimental support for ES7 decorators. */
+    "experimentalDecorators": true,
+    /* Skip type checking of declaration files. */
+    "skipLibCheck": true,
+    /* Disallow inconsistently-cased references to the same file. */
+    "forceConsistentCasingInFileNames": true
+  }
+}

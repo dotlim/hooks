@@ -1,0 +1,41 @@
+{
+  "name": "@dotlim/hooks",
+  "version": "1.0.0",
+  "description": "Collection of React Hooks",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "eslint": "^7.29.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.4"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotlim/hooks.git"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "oxyzhg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dotlim/hooks/issues"
+  },
+  "homepage": "https://github.com/dotlim/hooks#readme"
+}
