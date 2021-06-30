@@ -12,6 +12,13 @@ yarn add @dotlim/hooks
 
 ## Hooks
 
+### 异步
+
+- useDebounce
+- useDebounceFn
+- useThrottle
+- useThrottleFn
+
 ### 事件
 
 - useSize
